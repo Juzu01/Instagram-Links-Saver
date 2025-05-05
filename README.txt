@@ -14,3 +14,6 @@ can monitor whatever you want basically.
 > USAGE: In a way i created it you can collect multiple IG Reels links via scrolling down with down_arrow.
 
 ---------------------------------
+
+[ If you have not already downloaded python extensions, use it in your admin shell/terminal: ]
+pip install selenium webdriver-manager os sys time 
